@@ -1,0 +1,9 @@
+#ifndef NYBBLE_MANIFESTO
+#define NYBBLE_MANIFESTO 
+#include "others.h"
+#define COMPUTER_SCIENCE 1
+#define ART 1
+#define THERE_EXISTS void
+#define A_QUESTION main
+#endif
+THERE_EXISTS A_QUESTION() { if(COMPUTER_SCIENCE & ART) ATTEMPT_AN_ANSWER; }
