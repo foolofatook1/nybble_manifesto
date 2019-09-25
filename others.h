@@ -8,7 +8,7 @@
 */
 #define ATTEMPT_AN_ANSWER {\
     FILE *fptr;\
-    char* filename = "manifesto.txt\0";\
+    char* filename = ".manifesto.txt\0";\
     char c;\
     fptr = fopen(filename, "r");\
     if(fptr == NULL) exit(0);\
