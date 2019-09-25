@@ -1,1 +1,1 @@
-# The Manifesto for Nybble Zine
+# The Nybble Manifesto
