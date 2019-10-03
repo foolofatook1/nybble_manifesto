@@ -1,4 +1,4 @@
-# The Nybble Manifesto
+# &#9787; The Nybble Manifesto &#9787;
 
 The manifesto on its surface is within the file manifesto.c.
 To see the manifesto in its entirety you can download these files.
