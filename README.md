@@ -28,8 +28,8 @@ This can be done by either following the shortcut: Ctrl+Alt+t
 OR you can just look it up 'Terminal' or 'Command Line' on your computer. Once it's opened all
 you have to do is type the command(s) below replacing 'your_username' with your actual user name:
 
-unzip /home/your_username/Downloads/nybble_manifesto-master.zip; 
-cd /home/your_username/Downloads/nybble_manifesto-master; make
+    unzip /home/your_username/Downloads/nybble_manifesto-master.zip; 
+    cd /home/your_username/Downloads/nybble_manifesto-master; make
 
 Mac (OSX)
 ---------
@@ -44,7 +44,7 @@ Now that you've done that you'll have to open the command line. Read the section
 Once you have the command line opened on your computer you'll want to type the following commands,
 replacing 'your_username' with your actual username.
 
-cd /home/your_username/Downloads/nybble_manifesto-master; make
+    cd /home/your_username/Downloads/nybble_manifesto-master; make
 
 Windows 10
 ----------
