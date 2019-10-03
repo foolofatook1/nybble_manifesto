@@ -61,5 +61,5 @@ https://geekstraw.com/compile-and-run-c-program-in-windows-10-using-command-prom
 You can go so far as to follow the instructions on Compiling and running the C program provided 
 in the file as well, and vuala, the manifesto has been unveiled!
 
-## Some fun things to try and do if you feel so inclined:
-* 
+<!--## Some fun things to try and do if you feel so inclined:
+* -->
