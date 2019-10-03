@@ -1,15 +1,10 @@
 # The Nybble Manifesto
 
 The manifesto on its surface is within the file manifesto.c.
-
 To see the manifesto in its entirety you can download these files.
-
 To download the files click the green 'Clone or download' button located above.
-
 This will open a little drop down menu with options of cloning, or 'Download ZIP.'
-
 You will want to click, 'Download ZIP.'
-
 A small file with a little zipper on it should appear in a bar on the bottom of your screen.
 
 This is where it gets somewhat complicated. You will want to extract the contents of the 
@@ -61,5 +56,7 @@ https://geekstraw.com/compile-and-run-c-program-in-windows-10-using-command-prom
 You can go so far as to follow the instructions on Compiling and running the C program provided 
 in the file as well, and vuala, the manifesto has been unveiled!
 
-<!--## Some fun things to try and do if you feel so inclined:
-* -->
+### OR
+You could also just click on .manifesto.txt above.
+
+<!-- add some fun stuff to do with the code. -->
